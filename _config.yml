@@ -3,7 +3,7 @@ title: Corey Sabia
 description: 'Hello! I am Corey Sabia, a student intrested in software development, security engineering, security research and lots more focused around the security of technology.'
 url: 'https://sabia.tech'
 baseurl: '/'
-google_analytics: 'G-KZWX6HLSBC'
+# google_analytics: 'G-KZWX6HLSBC'
 # disqus_shortname: 'your-disqus-name'
 
 author:
