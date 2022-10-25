@@ -1,6 +1,6 @@
 # Site settings
 title: Corey Sabia
-description: 'I am a student interested in security engineering, analytics, software and threat mitigation.'
+description: ''
 url: 'https://sabia.tech'
 baseurl: '/'
 google_analytics: 'UA-148490724-1'
@@ -9,8 +9,8 @@ google_analytics: 'UA-148490724-1'
 author:
   name: 'Corey Sabia'
   email: corey@coreysabia.com
-  #twitter_username: coreysabia
-  facebook_username: coreysabia
+  #twitter_username: 
+  #facebook_username:
   github_username:  coreysabia
   linkedin_username:  coreysabia
 
